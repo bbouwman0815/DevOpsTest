@@ -5,6 +5,7 @@ package edu.westga.cs3211.a2.model;
  * @author CS 3211
  * @version Fall 2021
  */
+
 public enum GuessReport {
 	TOO_HIGH,
 	TOO_LOW,
